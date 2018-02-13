@@ -1,6 +1,6 @@
 {
-  "name": "pm2-windows-service",
-  "version": "0.2.1",
+  "name": "pm2-windows-support",
+  "version": "0.2.2",
   "description": "Install PM2 as a service on windows",
   "main": "src/index.js",
   "bin": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jon-hall/pm2-windows-service.git"
+    "url": "git+https://github.com/aliluyko89/pm2-windows-support.git"
   },
   "keywords": [
     "pm2",
@@ -22,9 +22,9 @@
   "author": "Jon Hall <jon_hall@outlook.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jon-hall/pm2-windows-service/issues"
+    "url": "https://github.com/aliluyko89/pm2-windows-support/issues"
   },
-  "homepage": "https://github.com/jon-hall/pm2-windows-service#readme",
+  "homepage": "https://github.com/aliluyko89/pm2-windows-support#readme",
   "dependencies": {
     "co": "^4.6.0",
     "co-event": "^0.1.0",
